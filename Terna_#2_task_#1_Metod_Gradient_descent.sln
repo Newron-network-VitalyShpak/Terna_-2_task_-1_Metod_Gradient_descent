@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Terna_#2_Neural networks", "Terna_#2_task_#1_Metod_Gradient_descent\Terna_#2_Neural networks.pyproj", "{E4912541-7AF1-4D11-AEE2-2F79A2B116BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4912541-7AF1-4D11-AEE2-2F79A2B116BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4912541-7AF1-4D11-AEE2-2F79A2B116BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F0688FD-2B4B-47C7-A451-F352BA437165}
+	EndGlobalSection
+EndGlobal
